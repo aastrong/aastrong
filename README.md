@@ -25,14 +25,24 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 
 <hr/>
 
+
+### ⚡ Github Streak ⚡
+
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=aastrong&hide_border=true" />
+
 ### Languages and Tools:
 
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
-<div class="container">
-  <div class="row">
-    <div class="col">
-      Below are some of the languages I use on the regular.
-- SCSS
+ <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>👨‍💻 Languages</b></td>
+        <td><b>🌟 Tools</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td>
+        - SCSS
 - Javascript
 - HTML
 - Twig
@@ -43,10 +53,9 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 - jQuery
 - JSON
 - YAML
-    </div>
-    <div class="col">
-      And some of the tools I use are:
-- Docker
+       </td>
+     </tr>
+     <tr><td>- Docker
 - Docksal
 - DDEV
 - Lando
@@ -56,24 +65,4 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 - JIRA
 - GULP
 - Emulsify
-- Node
-    </div>
-  </div>
-</div>
-
-
-
-<!--
-**aastrong/aastrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node</td></tr>
