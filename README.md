@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm [Aaron Armstrong!](https://www.aaron-armstrong.com) A Drupal, Front-end And Accessibility Developer. 
 
+<hr/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-armstrong-21238424/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aastrong1)
@@ -25,10 +26,11 @@ I joined github 2012, working as a front-end Developer. Since then, I have 5000+
 
 <hr/>
 
-
 ### ⚡ Github Streak ⚡
 
 <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=aastrong&hide_border=true" />
+
+<hr/>
 
 ### Languages and Tools:
 
