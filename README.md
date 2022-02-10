@@ -54,8 +54,7 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 - JSON
 - YAML
        </td>
-     </tr>
-     <tr><td>- Docker
+	      <td>- Docker
 - Docksal
 - DDEV
 - Lando
@@ -65,4 +64,6 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 - JIRA
 - GULP
 - Emulsify
-	     - Node</td></tr></tbody></table>
+	     - Node</td>
+     </tr>
+    </tbody></table>
