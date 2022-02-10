@@ -27,19 +27,25 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 
 ### Languages and Tools:
 
-Below are some of the languages i use on the regular.
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet"/>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      Below are some of the languages I use on the regular.
 - SCSS
 - Javascript
 - HTML
 - Twig
 - PHP
+- SQL
 - Markdown
 - CSS
 - jQuery
 - JSON
 - YAML
-
-And some of the tools I use are:
+    </div>
+    <div class="col">
+      And some of the tools I use are:
 - Docker
 - Docksal
 - DDEV
@@ -51,6 +57,10 @@ And some of the tools I use are:
 - GULP
 - Emulsify
 - Node
+    </div>
+  </div>
+</div>
+
 
 
 <!--
