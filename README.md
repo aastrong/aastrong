@@ -20,7 +20,7 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 
  ### ⚡ Github Stats ⚡ 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aastrong&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastrong&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=aastrong&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastrong&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <hr/>
