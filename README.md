@@ -5,9 +5,18 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aastrong1)
 [![Drupal.org Badge](https://img.shields.io/badge/drupal.org-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.drupal.org/u/aastrong)
 
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aastrong&style=flat-square&color=0088cc)
 
-I am currently working as a Developer over at [Promet Source!](https://www.prometsource.com)
+I am currently working as a Developer over at [Promet Source!](https://www.prometsource.com) where i've made some amazing websites such as <http://www.siumed.org>, <https://www.marinbhrs.org/>, <https://prevention.marinbhrs.org/> and many more.
+
+<hr/>
+
+### A little about me
+
+I joined github 2012, working as a front-end Developer. Since then, I have 1500+ commits, worked at 3 different companies, and have created more than 100 Drupal and Wordpress websites.
+
+<hr/>
 
  ### ⚡ Github Stats ⚡ 
 
@@ -15,6 +24,34 @@ I am currently working as a Developer over at [Promet Source!](https://www.prome
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastrong&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
+<hr/>
+
+### Languages and Tools:
+
+Below are some of the languages i use on the regular.
+- SCSS
+- Javascript
+- HTML
+- Twig
+- PHP
+- Markdown
+- CSS
+- jQuery
+- JSON
+- YAML
+
+And some of the tools I use are:
+- Docker
+- Docksal
+- DDEV
+- Lando
+- Drupal
+- Wordpress
+- Atom IDE
+- JIRA
+- GULP
+- Emulsify
+- Node
 
 
 <!--
