@@ -65,4 +65,4 @@ I joined github 2012, working as a front-end Developer. Since then, I have 1500+
 - JIRA
 - GULP
 - Emulsify
-- Node</td></tr>
+	     - Node</td></tr></tbody></table>
