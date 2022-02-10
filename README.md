@@ -14,7 +14,7 @@ I am currently working as a Developer over at [Promet Source!](https://www.prome
 
 ### A little about me
 
-I joined github 2012, working as a front-end Developer. Since then, I have 1500+ commits, worked at 3 different companies, and have created more than 100 Drupal and Wordpress websites.
+I joined github 2012, working as a front-end Developer. Since then, I have 5000+ commits, worked at 3 different companies, and have created more than 100 Drupal and Wordpress websites.
 
 <hr/>
 
