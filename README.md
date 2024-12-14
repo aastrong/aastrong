@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aastrong&style=flat-square&color=0088cc)
 
-I am currently working as a Developer over at [Promet Source!](https://www.prometsource.com) where i've made some amazing websites such as <https://www.calvin.edu>, <https://www.cof.orgj>, <https://www.oncc.org>, <https://www.rcbc.edu>, <https://www.siumed.org>, <https://www.marinbhrs.org/>, <https://prevention.marinbhrs.org/> and many more.
+I am currently working as a Developer over at [Promet Source!](https://www.prometsource.com) where i've made some amazing websites such as <https://www.calvin.edu>, <https://www.cof.org>, <https://www.oncc.org>, <https://www.rcbc.edu>, <https://www.siumed.org>, <https://www.marinbhrs.org/>, <https://prevention.marinbhrs.org/> and many more.
 
 <hr/>
 
