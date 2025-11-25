@@ -15,7 +15,7 @@ I am currently working as a Drupal Developer consultant. Currently doing work wi
 
 ### A little about me
 
-I joined github 2012, working as a front-end Developer. Since then, I have 5000+ commits, worked at 3 different companies, and have created more than 100 Drupal and Wordpress websites.
+I joined github 2012, working as a front-end Developer. Since then, I have 5000+ commits, worked at 5 different agencies, and have created more than 200+ Drupal and Wordpress websites.
 
 <hr/>
 
