@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aastrong&style=flat-square&color=0088cc)
 
-I am currently working as a Developer over at [Promet Source!](https://www.prometsource.com) where i've made some amazing websites such as <https://www.calvin.edu>, <https://www.cof.org>, <https://www.oncc.org>, <https://www.rcbc.edu>, <https://www.siumed.org>, <https://www.marinbhrs.org/>, <https://prevention.marinbhrs.org/> and many more.
+I am currently working as a Drupal Developer consultant. Currently doing work with [KWALL!](https://www.kwallcompany.com/) as well as [Canada Blood!](https://www.blood.ca/en). I've made some amazing websites such as <https://www.calvin.edu>, <https://www.cof.org>, <https://www.oncc.org>, <https://www.rcbc.edu>, <https://www.siumed.org>, <https://www.marinbhrs.org/>, <https://prevention.marinbhrs.org/> and many more.
 
 <hr/>
 
@@ -26,12 +26,6 @@ I joined github 2012, working as a front-end Developer. Since then, I have 5000+
 
 <hr/>
 
-### ⚡ Github Streak ⚡
-
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=aastrong&hide_border=true" />
-
-<hr/>
-
 ### Languages and Tools:
 
  <table>
@@ -45,16 +39,17 @@ I joined github 2012, working as a front-end Developer. Since then, I have 5000+
       <tr>
 	      <td>
         - SCSS
-- Javascript
-- HTML
-- Twig
-- PHP
-- SQL
-- Markdown
-- CSS
-- jQuery
-- JSON
-- YAML
+	  	- Tailwind	  
+		- Javascript
+		- HTML
+		- Twig
+		- PHP
+		- SQL
+		- Markdown
+		- CSS
+		- jQuery
+		- JSON
+		- YAML
        </td>
 	      <td>- Docker
 - Docksal
@@ -62,7 +57,6 @@ I joined github 2012, working as a front-end Developer. Since then, I have 5000+
 - Lando
 - Drupal
 - Wordpress
-- Atom IDE
 - JIRA
 - GULP
 - Emulsify
